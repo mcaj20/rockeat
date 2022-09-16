@@ -1,9 +1,20 @@
 # Personal Page
 
-* Nele mostro algumas Redes Sociais, Games e Canais que mais gosto.
-* Usei coisas basicas do Css, para um melhor intereção.
+![preview](./.github/preview.png)
 
-Obs: Novas atualização em Breve.
+> Card Personal
 
+Projeto feito por mim para mostrar minhas preferencias de filmes e Séries
 
-Mauro Junior
+[🔗 Clique aqui para acessar](https://mcaj20.github.io/rockeat/)
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e GitHub
+
+## ❤ Contato
+
+  📧 mcaj20@gmail.com
+  - (11) 91092-6553 - WhatsApp
