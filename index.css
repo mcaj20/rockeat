@@ -13,7 +13,7 @@ ul{
 
 
 body{
-    background-image: url(./assest/pexels-element-digital-1293261.jpg);
+    background-image: url(./assest/fundo_preto.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -118,7 +118,7 @@ section ul li:hover{
     transform: scale(1.1);
 }
 
-.list-games img{
+.list-movies img{
     width: 90px;
     border-radius: 8px;
 }
