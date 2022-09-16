@@ -1,6 +1,6 @@
 # Personal Page
 
-![preview](./.github/preview.png)
+![preview](./.github/preview1.png)
 
 > Card Personal
 
